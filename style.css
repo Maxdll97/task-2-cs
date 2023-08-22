@@ -1,0 +1,52 @@
+
+
+/* box1 */
+.box1{
+    width: 250px;
+    height: 300px;
+    text-align: center;
+}
+.box1 img {
+    max-width: 100%;
+}
+
+/* box2*/
+.box2{
+    width: 250px;
+    height: 200px;
+    text-align: center;
+}
+.box2 img {
+    max-width: 100%;
+}
+
+/* box3 */
+.box3{
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    
+}
+.box3 img {
+    max-width: 100%;
+}
+/* end box */
+.box1 , .box2 , .box3 {
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+/* box button */
+.box1 button{
+    background-color: #79b679;
+}
+.box2 button{
+    background-color: #79b679;
+}
+
+.box3 button{
+    background-color: #79b679;
+    
+}
+
+
